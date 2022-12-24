@@ -1,4 +1,4 @@
-### Hi there 👋
+### RYU SEOK JUN
 
 
 <p align="center">🇰🇷</p>
