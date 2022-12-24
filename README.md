@@ -1,5 +1,4 @@
-<h1>RYU SEOK JUN</h1>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=RYUSEOKJUN%2r&fontSize=90" />
 
 <p align="center">🇰🇷</p>
 
